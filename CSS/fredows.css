@@ -1,0 +1,146 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    list-style: none;
+}
+
+.home {
+    width: auto;
+    height: auto;
+}
+
+.about {
+    width: auto;
+    box-shadow: 0 6px 12px gray;
+    height: 90px;
+    background-color: #ffffff;
+}
+
+.disvork {
+    width: auto;
+    position: absolute;
+    margin-top: 210;
+    margin-left: 110px;
+    height: auto;
+}
+
+.lexts {
+    width: 50%;
+    position: relative;
+    box-shadow: 0px 4px 12px gray;
+    margin-left: 25%;
+    margin-top: -90;
+    background-color: #e0e0e0;
+    height: 440px;
+}
+
+.img {
+    margin-left: 40px;
+    padding-top: 25px;
+}
+
+.text {
+    margin-top: -210px;
+    margin-left: 530px;
+    width: 400px;
+}
+
+img {
+    pointer-events: none
+}
+
+.link {
+    margin-top: 250px;
+    margin-left: 1820px;
+}
+
+.fa:hover {
+    opacity: 0.8;
+    margin-right: -15px;
+    box-shadow: 0 15px 14px gray;
+    border: inset 5px goldenrod;
+    box-shadow: 0 4px 14px gray;
+}
+
+.fa {
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 10px;
+    box-shadow: 0 15px 14px gray;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px 10px;
+}
+
+.fa-facebook {
+    background: black;
+    box-shadow: 0 15px 14px gray;
+    border: inset 5px brown;
+    color: white;
+}
+
+.fa-twitter {
+    background: black;
+    box-shadow: 0 15px 14px gray;
+    border: inset 5px brown;
+    color: white;
+}
+
+.fa-instagram {
+    background: black;
+    border: inset 5px brown;
+    box-shadow: 0 15px 14px gray;
+    color: white;
+}
+
+.fa-youtube {
+    background: black;
+    border: inset 5px brown;
+    box-shadow: 0 15px 14px gray;
+    color: white;
+}
+
+.nk1 {
+    padding: 18px;
+    float: left;
+    padding-left: 60px;
+}
+
+.dev {
+    margin-left: 1700px;
+    margin-top: -65;
+    font-size: 45;
+}
+
+.menu ul {
+    width: auto;
+    margin-left: 1150px;
+    margin-top: -195px;
+    list-style-type: none;
+}
+
+.menu li {
+    float: left;
+    margin-left: 15px;
+}
+
+.menu li a {
+    display: block;
+    width: 152px;
+    height: 55px;
+    line-height: 55px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    transition: all ease-in .3s;
+}
+
+.menu li a:hover {
+    color: #ff7a00;
+    background-color: black;
+}
